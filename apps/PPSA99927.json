@@ -1,0 +1,14 @@
+{
+  "titleid": "PPSA99927",
+  "name": "Stella PS5",
+  "kind": "app",
+  "category": "emulators",
+  "description": "Stella (Atari 2600) as a native PS5 app.",
+  "license": "GPL-2.0-or-later",
+  "author": "MisterTemaki",
+  "version": null,
+  "source_repo": null,
+  "artifact_url": null,
+  "sha256": null,
+  "icon_url": null
+}
