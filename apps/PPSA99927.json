@@ -3,12 +3,12 @@
   "name": "Stella PS5",
   "kind": "app",
   "category": "emulators",
-  "description": "Stella (Atari 2600) as a native PS5 app.",
-  "license": "GPL-2.0-or-later",
+  "description": "Port of Stella (Atari 2600), Atari 5200, 7800 and Lynx as a native PS5 app.",
+  "license": "GPL-3.0-or-later",
   "author": "MisterTemaki",
-  "version": null,
-  "source_repo": null,
-  "artifact_url": null,
-  "sha256": null,
-  "icon_url": null
+  "version": "v1.0",
+  "source_repo": "https://github.com/MisterTemaki/stellaPS5",
+  "artifact_url": "https://github.com/MisterTemaki/stellaPS5/releases/download/v1.0/StellaPS5-v1.0-PPSA99927.zip",
+  "sha256": "9495c7ab6bf73a2e351667c03d5a9d547b6cba557e48ebccaa377fa87357abc6",
+  "icon_url": "https://raw.githubusercontent.com/MisterTemaki/stellaPS5/v1.0/ps5/app/sce_sys/icon0.png"
 }
